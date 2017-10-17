@@ -8,7 +8,7 @@
 //				 the facility.
 //============================================================================
 
-// I will be turning many of these files into classes.
+
 #include <iostream>
 #include <fstream>
 #include <string>
